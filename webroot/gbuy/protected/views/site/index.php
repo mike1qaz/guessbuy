@@ -1,16 +1,34 @@
-<?php $this->pageTitle=Yii::app()->name; ?>
-
-<h1>Welcome to <i><?php echo CHtml::encode(Yii::app()->name); ?></i></h1>
-
-<p>Congratulations! You have successfully created your Yii application.</p>
-
-<p>You may change the content of this page by modifying the following two files:</p>
-<ul>
-	<li>View file: <tt><?php echo __FILE__; ?></tt></li>
-	<li>Layout file: <tt><?php echo $this->getLayoutFile('main'); ?></tt></li>
+<ul class="filter">
+	<li class="item">全部</li>
+	<li class="item">默认排序</li>
 </ul>
-
-<p>For more details on how to further develop this application, please read
-the <a href="http://www.yiiframework.com/doc/">documentation</a>.
-Feel free to ask in the <a href="http://www.yiiframework.com/forum/">forum</a>,
-should you have any questions.</p>
+<ul class="goods clear">
+	<li class="item">
+		<a href="###">
+			<img class="show" src="<?php echo Yii::app()->request->baseUrl; ?>/img/test_01.png" />
+			<div class="info">75平米混搭婚房</div>
+		</a>
+		<div class="statistics">已有<span class="number">2339</span>人参与猜购</div>
+	</li>
+	<li class="item">
+		<a href="###">
+			<img class="show" src="<?php echo Yii::app()->request->baseUrl; ?>/img/test_01.png" />
+			<div class="info">75平米混搭婚房</div>
+		</a>
+		<div class="statistics">已有<span class="number">2339</span>人参与猜购</div>
+	</li>
+	<li class="item">
+		<a href="###">
+			<img class="show" src="<?php echo Yii::app()->request->baseUrl; ?>/img/test_01.png" />
+			<div class="info">75平米混搭婚房</div>
+		</a>
+		<div class="statistics">已有<span class="number">2339</span>人参与猜购</div>
+	</li>
+	<li class="item">
+		<a href="###">
+			<img class="show" src="<?php echo Yii::app()->request->baseUrl; ?>/img/test_01.png" />
+			<div class="info">75平米混搭婚房</div>
+		</a>
+		<div class="statistics">已有<span class="number">2339</span>人参与猜购</div>
+	</li>
+</ul>

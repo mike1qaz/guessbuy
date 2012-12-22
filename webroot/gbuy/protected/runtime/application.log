@@ -1,0 +1,10 @@
+2012/12/22 07:58:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "guess".' in E:\GitHub\guessbuy\framework\web\CController.php:484
+Stack trace:
+#0 E:\GitHub\guessbuy\framework\web\CController.php(271): CController->missingAction('guess')
+#1 E:\GitHub\guessbuy\framework\web\CWebApplication.php(276): CController->run('guess')
+#2 E:\GitHub\guessbuy\framework\web\CWebApplication.php(135): CWebApplication->runController('site/guess')
+#3 E:\GitHub\guessbuy\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 E:\GitHub\guessbuy\webroot\gbuy\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=site/guess
+---
