@@ -8,3 +8,93 @@ Stack trace:
 #5 {main}
 REQUEST_URI=/index.php?r=site/guess
 ---
+2012/12/22 09:44:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "vie".' in E:\xampp\htdocs\caigou\guessbuy\framework\web\CController.php:484
+Stack trace:
+#0 E:\xampp\htdocs\caigou\guessbuy\framework\web\CController.php(271): CController->missingAction('vie')
+#1 E:\xampp\htdocs\caigou\guessbuy\framework\web\CWebApplication.php(276): CController->run('vie')
+#2 E:\xampp\htdocs\caigou\guessbuy\framework\web\CWebApplication.php(135): CWebApplication->runController('site/vie')
+#3 E:\xampp\htdocs\caigou\guessbuy\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 E:\xampp\htdocs\caigou\guessbuy\webroot\gbuy\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/caigou/guessbuy/webroot/gbuy/index.php?r=site/vie
+---
+2012/12/22 09:46:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "vie".' in E:\xampp\htdocs\caigou\guessbuy\framework\web\CController.php:485
+Stack trace:
+#0 E:\xampp\htdocs\caigou\guessbuy\framework\web\CController.php(272): CController->missingAction('vie')
+#1 E:\xampp\htdocs\caigou\guessbuy\framework\web\CWebApplication.php(276): CController->run('vie')
+#2 E:\xampp\htdocs\caigou\guessbuy\framework\web\CWebApplication.php(135): CWebApplication->runController('site/vie')
+#3 E:\xampp\htdocs\caigou\guessbuy\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 E:\xampp\htdocs\caigou\guessbuy\webroot\gbuy\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/caigou/guessbuy/webroot/gbuy/index.php?r=site/vie
+---
+2012/12/22 09:47:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "vie".' in E:\xampp\htdocs\caigou\guessbuy\framework\web\CController.php:486
+Stack trace:
+#0 E:\xampp\htdocs\caigou\guessbuy\framework\web\CController.php(272): CController->missingAction('vie')
+#1 E:\xampp\htdocs\caigou\guessbuy\framework\web\CWebApplication.php(276): CController->run('vie')
+#2 E:\xampp\htdocs\caigou\guessbuy\framework\web\CWebApplication.php(135): CWebApplication->runController('site/vie')
+#3 E:\xampp\htdocs\caigou\guessbuy\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 E:\xampp\htdocs\caigou\guessbuy\webroot\gbuy\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/caigou/guessbuy/webroot/gbuy/index.php?r=site/vie
+---
+2012/12/22 09:50:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "vie".' in E:\xampp\htdocs\caigou\guessbuy\framework\web\CController.php:487
+Stack trace:
+#0 E:\xampp\htdocs\caigou\guessbuy\framework\web\CController.php(272): CController->missingAction('vie')
+#1 E:\xampp\htdocs\caigou\guessbuy\framework\web\CWebApplication.php(276): CController->run('vie')
+#2 E:\xampp\htdocs\caigou\guessbuy\framework\web\CWebApplication.php(135): CWebApplication->runController('site/vie')
+#3 E:\xampp\htdocs\caigou\guessbuy\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 E:\xampp\htdocs\caigou\guessbuy\webroot\gbuy\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/caigou/guessbuy/webroot/gbuy/index.php?r=site/vie
+---
+2012/12/22 09:51:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "vie".' in E:\xampp\htdocs\caigou\guessbuy\framework\web\CController.php:487
+Stack trace:
+#0 E:\xampp\htdocs\caigou\guessbuy\framework\web\CController.php(272): CController->missingAction('vie')
+#1 E:\xampp\htdocs\caigou\guessbuy\framework\web\CWebApplication.php(276): CController->run('vie')
+#2 E:\xampp\htdocs\caigou\guessbuy\framework\web\CWebApplication.php(135): CWebApplication->runController('site/vie')
+#3 E:\xampp\htdocs\caigou\guessbuy\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 E:\xampp\htdocs\caigou\guessbuy\webroot\gbuy\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/caigou/guessbuy/webroot/gbuy/index.php?r=site/vie
+---
+2012/12/22 09:53:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "vie".' in E:\xampp\htdocs\caigou\guessbuy\framework\web\CController.php:487
+Stack trace:
+#0 E:\xampp\htdocs\caigou\guessbuy\framework\web\CController.php(272): CController->missingAction('vie')
+#1 E:\xampp\htdocs\caigou\guessbuy\framework\web\CWebApplication.php(276): CController->run('vie')
+#2 E:\xampp\htdocs\caigou\guessbuy\framework\web\CWebApplication.php(135): CWebApplication->runController('site/vie')
+#3 E:\xampp\htdocs\caigou\guessbuy\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 E:\xampp\htdocs\caigou\guessbuy\webroot\gbuy\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/caigou/guessbuy/webroot/gbuy/index.php?r=site/vie
+---
+2012/12/22 09:54:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "vie".' in E:\xampp\htdocs\caigou\guessbuy\framework\web\CController.php:487
+Stack trace:
+#0 E:\xampp\htdocs\caigou\guessbuy\framework\web\CController.php(272): CController->missingAction('vie')
+#1 E:\xampp\htdocs\caigou\guessbuy\framework\web\CWebApplication.php(276): CController->run('vie')
+#2 E:\xampp\htdocs\caigou\guessbuy\framework\web\CWebApplication.php(135): CWebApplication->runController('site/vie')
+#3 E:\xampp\htdocs\caigou\guessbuy\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 E:\xampp\htdocs\caigou\guessbuy\webroot\gbuy\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/caigou/guessbuy/webroot/gbuy/index.php?r=site/vie
+---
+2012/12/22 09:57:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "vie".' in E:\xampp\htdocs\caigou\guessbuy\framework\web\CController.php:484
+Stack trace:
+#0 E:\xampp\htdocs\caigou\guessbuy\framework\web\CController.php(271): CController->missingAction('vie')
+#1 E:\xampp\htdocs\caigou\guessbuy\framework\web\CWebApplication.php(276): CController->run('vie')
+#2 E:\xampp\htdocs\caigou\guessbuy\framework\web\CWebApplication.php(135): CWebApplication->runController('site/vie')
+#3 E:\xampp\htdocs\caigou\guessbuy\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 E:\xampp\htdocs\caigou\guessbuy\webroot\gbuy\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/caigou/guessbuy/webroot/gbuy/index.php?r=site/vie
+---
+2012/12/22 10:01:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "vie".' in E:\xampp\htdocs\caigou\guessbuy\framework\web\CController.php:484
+Stack trace:
+#0 E:\xampp\htdocs\caigou\guessbuy\framework\web\CController.php(271): CController->missingAction('vie')
+#1 E:\xampp\htdocs\caigou\guessbuy\framework\web\CWebApplication.php(276): CController->run('vie')
+#2 E:\xampp\htdocs\caigou\guessbuy\framework\web\CWebApplication.php(135): CWebApplication->runController('site/vie')
+#3 E:\xampp\htdocs\caigou\guessbuy\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 E:\xampp\htdocs\caigou\guessbuy\webroot\gbuy\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/caigou/guessbuy/webroot/gbuy/index.php?r=site/vie
+---
