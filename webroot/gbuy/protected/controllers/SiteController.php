@@ -73,11 +73,4 @@ class SiteController extends Controller
 	public function actionLogin() {
 		$this->render('login');
 	}
-
-	/**
-	 * 商品详情
-	 */
-	public function actionVie() {
-		$this->render('vie');
-	}
 }
